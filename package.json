@@ -1,0 +1,17 @@
+{
+  "name": "update-card-on-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manor Ben Shimon",
+  "license": "ISC",
+  "dependencies": {
+    "array-find-duplicates": "^2.0.1",
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.6"
+  }
+}

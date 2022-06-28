@@ -1,0 +1,20 @@
+[
+  {
+    "old_customer_id": "p1_cus_60071ea87b2523cf942aae2",
+    "new_customer_id": "cus_LkDITCVZiP8BvP",
+    "old_payment_token_id": "p1_tok_6144c90d26e447283804e7c",
+    "new_payment_token_id": "pm_1L2ircJovJtEHT1ZRcQeERaE",
+    "business_uid": "luh7w732vn1ikovk",
+    "client_id": "h3nffwqs13pyrbf8",
+    "card_uid": "fn5whlaka5wsjgt4",
+    "last_4": 1436,
+    "exp_month": 6,
+    "exp_year": 23,
+    "cardholder_name": null,
+    "card_brand": "Visa",
+    "default": false,
+    "active": true,
+    "staff_id": "piwy9murwp1q3uj6",
+    "error": "This credit card already exists"
+  }
+]
